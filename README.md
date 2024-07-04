@@ -1,0 +1,1 @@
+Wild Oasis is a comprehensive hotel management application built using React. The app is designed to provide seamless management of hotel operations, including user authentication, dashboard views, cabin management, and booking functionalities. It leverages modern technologies like React Query for data fetching, Styled Components for styling, and Supabase for backend services.
